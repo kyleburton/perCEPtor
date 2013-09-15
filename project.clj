@@ -1,4 +1,4 @@
-(defproject com.github.kyleburton/perceptor "1.0.0"
+(defproject com.github.kyleburton/perceptor "1.0.1-SNAPSHOT"
   :description "Clojure bindings for Esper: http://esper.codehaus.org/"
   :url         "http://github.com/kyleburton/perCEPtor"
   :lein-release {:deploy-via :clojars :scm :git}
